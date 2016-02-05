@@ -1,2 +1,4 @@
-# Personal-Work
-Programs that I've worked on as a personal learning experience.
+One of my first Java projects using Swing.
+This was prior to having knowledge of multidimensional arrays/many proper programming practises; thus the code is very sloppy and needs fixing.
+
+TO DO^ 
